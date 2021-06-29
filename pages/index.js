@@ -15,14 +15,14 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Get started by editing{' '} dfdfd
+          <code className={styles.code}>pages/index.js this is a ndfw change</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about Next.js features dfdand API 2021.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
