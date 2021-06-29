@@ -16,7 +16,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing{' '} dfdfd
-          <code className={styles.code}>pages/index.js this is a ndfw change</code>
+          <code className={styles.code}>pages/index.js this is a ndfw change 2021</code>
         </p>
 
         <div className={styles.grid}>
